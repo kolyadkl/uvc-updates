@@ -1,4 +1,4 @@
-0.6.12.8 - Auto Update Polish / Publisher UX
+0.6.12.9.1 - Updater Diagnostics / Locked EXE Inspection
 
 - Auto update polish and publisher UX improvements.
 - Main EXE and UVC.Updater.exe are published as release assets.
