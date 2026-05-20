@@ -1,26 +1,26 @@
 {
-    "version":  "0.6.12.9.8",
-    "title":  "Diagnostics Report Cleanup",
+    "version":  "0.6.13",
+    "title":  "Web Queue ETA / Empty State Fix",
     "date":  "2026-05-20",
     "mandatory":  false,
     "fileName":  "UniversalVideoCombiner.exe",
     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-    "sha256":  "b557bcffc366a15b791b25813613c8a678128fad8609e45479685016caa5ce49",
-    "sizeBytes":  162938939,
+    "sha256":  "9883f2435b7ca24c69aa378b4e78ba82c789748d696c746d6d4f085b4e6ad110",
+    "sizeBytes":  162943033,
     "updaterDownloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-    "updaterSha256":  "2d1918085102c2b4b218006240cdc85491f6fea533b6690be6e89f0cec1b746c",
-    "updaterSizeBytes":  161767367,
+    "updaterSha256":  "ec549d7cb19d373644e00e87e55ab1780985266f64cee7d6bfa6e0c8ba4e9e54",
+    "updaterSizeBytes":  161767365,
     "main":  {
                  "fileName":  "UniversalVideoCombiner.exe",
                  "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-                 "sha256":  "b557bcffc366a15b791b25813613c8a678128fad8609e45479685016caa5ce49",
-                 "sizeBytes":  162938939
+                 "sha256":  "9883f2435b7ca24c69aa378b4e78ba82c789748d696c746d6d4f085b4e6ad110",
+                 "sizeBytes":  162943033
              },
     "updater":  {
                     "fileName":  "UVC.Updater.exe",
                     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-                    "sha256":  "2d1918085102c2b4b218006240cdc85491f6fea533b6690be6e89f0cec1b746c",
-                    "sizeBytes":  161767367
+                    "sha256":  "ec549d7cb19d373644e00e87e55ab1780985266f64cee7d6bfa6e0c8ba4e9e54",
+                    "sizeBytes":  161767365
                 },
     "notesUrl":  "https://raw.githubusercontent.com/kolyadkl/uvc-updates/main/release_notes.txt"
 }
