@@ -1,4 +1,4 @@
-0.6.13 - Web Queue ETA / Empty State Fix
+0.6.15.1 - AV1 Expert Mode UI Polish
 
 - Auto update polish and publisher UX improvements.
 - Main EXE and UVC.Updater.exe are published as release assets.
