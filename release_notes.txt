@@ -1,4 +1,4 @@
-0.6.12.6 - GitHub Update Infrastructure
+0.6.12.7 - UVC Updater Final
 
 - New Universal Video Combiner release.
 - Fixes and improvements.
