@@ -1,4 +1,4 @@
-0.6.12.9.1 - Updater Diagnostics / Locked EXE Inspection
+0.6.12.9.5 - Updater Version Tracking
 
 - Auto update polish and publisher UX improvements.
 - Main EXE and UVC.Updater.exe are published as release assets.
