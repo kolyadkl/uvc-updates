@@ -1,25 +1,25 @@
 {
-    "version":  "0.6.15.1",
-    "title":  "AV1 Expert Mode UI Polish",
-    "date":  "2026-05-20",
+    "version":  "0.6.15.3",
+    "title":  "Quality Compare Dialog Completion",
+    "date":  "2026-05-21",
     "mandatory":  false,
     "fileName":  "UniversalVideoCombiner.exe",
     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-    "sha256":  "e1abb5d344f9dcb25dae930ad16e568759e535a16818ed9da8d900755978ba58",
-    "sizeBytes":  163020857,
+    "sha256":  "58a91febb2ffc8633aeb81a3d77cee96561a426a8733209155503959cb712312",
+    "sizeBytes":  163029049,
     "updaterDownloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-    "updaterSha256":  "2d9c18a79c99c93db72f7d437fdaea977663d9bb0240fe381155710ee320fb0d",
+    "updaterSha256":  "f20245ab167c96874cb8d48d23580aa6fd82b3f01046027db9be0fd8f179f66a",
     "updaterSizeBytes":  161767365,
     "main":  {
                  "fileName":  "UniversalVideoCombiner.exe",
                  "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-                 "sha256":  "e1abb5d344f9dcb25dae930ad16e568759e535a16818ed9da8d900755978ba58",
-                 "sizeBytes":  163020857
+                 "sha256":  "58a91febb2ffc8633aeb81a3d77cee96561a426a8733209155503959cb712312",
+                 "sizeBytes":  163029049
              },
     "updater":  {
                     "fileName":  "UVC.Updater.exe",
                     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-                    "sha256":  "2d9c18a79c99c93db72f7d437fdaea977663d9bb0240fe381155710ee320fb0d",
+                    "sha256":  "f20245ab167c96874cb8d48d23580aa6fd82b3f01046027db9be0fd8f179f66a",
                     "sizeBytes":  161767365
                 },
     "notesUrl":  "https://raw.githubusercontent.com/kolyadkl/uvc-updates/main/release_notes.txt"
