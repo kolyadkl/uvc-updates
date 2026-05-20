@@ -1,26 +1,26 @@
 {
-    "version":  "0.6.12.8",
-    "title":  "Auto Update Polish / Publisher UX",
+    "version":  "0.6.12.9.1",
+    "title":  "Updater Diagnostics / Locked EXE Inspection",
     "date":  "2026-05-20",
     "mandatory":  false,
     "fileName":  "UniversalVideoCombiner.exe",
     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-    "sha256":  "d9ca3c553cc925c2431b11903c582774f3949ba1f4f978e49a2e33c4a70a60c0",
-    "sizeBytes":  162828345,
+    "sha256":  "4b3030236ce9dd46efdd01115eea3ec381b78c1a4ac85a4b407a048d371faaa2",
+    "sizeBytes":  162828347,
     "updaterDownloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-    "updaterSha256":  "e0f088f7a9ae59228207b302f609800bf53abf1b8ffc2151276c0fffff3647fe",
-    "updaterSizeBytes":  161742789,
+    "updaterSha256":  "a0795c95ff53a0674867a30be51e6d4e3e6e08fe480059296ffc6582c9d11329",
+    "updaterSizeBytes":  161759175,
     "main":  {
                  "fileName":  "UniversalVideoCombiner.exe",
                  "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-                 "sha256":  "d9ca3c553cc925c2431b11903c582774f3949ba1f4f978e49a2e33c4a70a60c0",
-                 "sizeBytes":  162828345
+                 "sha256":  "4b3030236ce9dd46efdd01115eea3ec381b78c1a4ac85a4b407a048d371faaa2",
+                 "sizeBytes":  162828347
              },
     "updater":  {
                     "fileName":  "UVC.Updater.exe",
                     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-                    "sha256":  "e0f088f7a9ae59228207b302f609800bf53abf1b8ffc2151276c0fffff3647fe",
-                    "sizeBytes":  161742789
+                    "sha256":  "a0795c95ff53a0674867a30be51e6d4e3e6e08fe480059296ffc6582c9d11329",
+                    "sizeBytes":  161759175
                 },
     "notesUrl":  "https://raw.githubusercontent.com/kolyadkl/uvc-updates/main/release_notes.txt"
 }
