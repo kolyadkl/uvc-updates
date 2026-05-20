@@ -1,0 +1,6 @@
+0.6.12.6 - GitHub Update Infrastructure
+
+- New Universal Video Combiner release.
+- Fixes and improvements.
+
+Date: 2026-05-20
