@@ -1,4 +1,4 @@
-0.6.12.9.5 - Updater Version Tracking
+0.6.12.9.8 - Diagnostics Report Cleanup
 
 - Auto update polish and publisher UX improvements.
 - Main EXE and UVC.Updater.exe are published as release assets.
