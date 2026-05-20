@@ -1,0 +1,11 @@
+{
+    "version":  "0.6.12.6",
+    "title":  "GitHub Update Infrastructure",
+    "date":  "2026-05-20",
+    "fileName":  "UniversalVideoCombiner.exe",
+    "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
+    "sha256":  "07ccf381a0a2a12e56fa695b686218ea51ec7deeb4d1d3af7201fe8e37abdac7",
+    "sizeBytes":  162816057,
+    "mandatory":  false,
+    "notesUrl":  "https://raw.githubusercontent.com/kolyadkl/uvc-updates/main/release_notes.txt"
+}
