@@ -1,4 +1,4 @@
-0.6.15.1 - AV1 Expert Mode UI Polish
+0.6.15.3 - Quality Compare Dialog Completion
 
 - Auto update polish and publisher UX improvements.
 - Main EXE and UVC.Updater.exe are published as release assets.
