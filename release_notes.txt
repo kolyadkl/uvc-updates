@@ -1,4 +1,4 @@
-0.6.12.9.8 - Diagnostics Report Cleanup
+0.6.13 - Web Queue ETA / Empty State Fix
 
 - Auto update polish and publisher UX improvements.
 - Main EXE and UVC.Updater.exe are published as release assets.
