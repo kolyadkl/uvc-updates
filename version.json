@@ -1,25 +1,25 @@
 {
-    "version":  "0.6.12.9.5",
-    "title":  "Updater Version Tracking",
+    "version":  "0.6.12.9.8",
+    "title":  "Diagnostics Report Cleanup",
     "date":  "2026-05-20",
     "mandatory":  false,
     "fileName":  "UniversalVideoCombiner.exe",
     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-    "sha256":  "82887681e1fa46737ee8590b49a77c8eba4ef33bcce65b4d50ca94efe9709da8",
-    "sizeBytes":  162877499,
+    "sha256":  "b557bcffc366a15b791b25813613c8a678128fad8609e45479685016caa5ce49",
+    "sizeBytes":  162938939,
     "updaterDownloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-    "updaterSha256":  "76166daac5952f7fc3d71a2e6401accd410d78b65c9b1c459baaf5f5ad8d2f1e",
+    "updaterSha256":  "2d1918085102c2b4b218006240cdc85491f6fea533b6690be6e89f0cec1b746c",
     "updaterSizeBytes":  161767367,
     "main":  {
                  "fileName":  "UniversalVideoCombiner.exe",
                  "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-                 "sha256":  "82887681e1fa46737ee8590b49a77c8eba4ef33bcce65b4d50ca94efe9709da8",
-                 "sizeBytes":  162877499
+                 "sha256":  "b557bcffc366a15b791b25813613c8a678128fad8609e45479685016caa5ce49",
+                 "sizeBytes":  162938939
              },
     "updater":  {
                     "fileName":  "UVC.Updater.exe",
                     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-                    "sha256":  "76166daac5952f7fc3d71a2e6401accd410d78b65c9b1c459baaf5f5ad8d2f1e",
+                    "sha256":  "2d1918085102c2b4b218006240cdc85491f6fea533b6690be6e89f0cec1b746c",
                     "sizeBytes":  161767367
                 },
     "notesUrl":  "https://raw.githubusercontent.com/kolyadkl/uvc-updates/main/release_notes.txt"
