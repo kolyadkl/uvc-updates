@@ -1,6 +1,6 @@
-0.6.12.7 - UVC Updater Final
+0.6.12.8 - Auto Update Polish / Publisher UX
 
-- New Universal Video Combiner release.
-- Fixes and improvements.
-
-Date: 2026-05-20
+- Auto update polish and publisher UX improvements.
+- Main EXE and UVC.Updater.exe are published as release assets.
+- version.json now includes main and updater metadata with SHA256 and sizeBytes.
+- update.log records the update flow.
