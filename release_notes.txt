@@ -1,4 +1,4 @@
-0.7.6.2 - Settings ComboBox Theme Fix
+0.7.6.3 - Movie Poster Controls Restore
 
 - Auto update polish and publisher UX improvements.
 - Main EXE and UVC.Updater.exe are published as release assets.
