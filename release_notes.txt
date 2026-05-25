@@ -1,4 +1,4 @@
-0.7.6.3 - Movie Poster Controls Restore
+0.7.6.5 - Web Queue Snapshot + Updater ETA Polish
 
 - Auto update polish and publisher UX improvements.
 - Main EXE and UVC.Updater.exe are published as release assets.
