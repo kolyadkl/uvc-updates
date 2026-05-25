@@ -1,25 +1,25 @@
 {
-    "version":  "0.7.6.3",
-    "title":  "Movie Poster Controls Restore",
+    "version":  "0.7.6.5",
+    "title":  "Web Queue Snapshot + Updater ETA Polish",
     "date":  "2026-05-25",
     "mandatory":  false,
     "fileName":  "UniversalVideoCombiner.exe",
     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-    "sha256":  "25c63eb681bcae7a7e670411e5aa0d59434d5d412f33f1075c64a9aca3388727",
-    "sizeBytes":  163090487,
+    "sha256":  "cb8afa3c06b691802612975818c97426d10f3e7d7f13becff395fa7307b80b3a",
+    "sizeBytes":  163098679,
     "updaterDownloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-    "updaterSha256":  "5960b8d82aca14b936fe7bfdba484a8680eb4a2c5cfdcb4e2e9b0f3902c43333",
+    "updaterSha256":  "01e105e4321faba50ca4fdb606228bad7406f4de30b4a546d36ebe1f6f7be7ce",
     "updaterSizeBytes":  161767363,
     "main":  {
                  "fileName":  "UniversalVideoCombiner.exe",
                  "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-                 "sha256":  "25c63eb681bcae7a7e670411e5aa0d59434d5d412f33f1075c64a9aca3388727",
-                 "sizeBytes":  163090487
+                 "sha256":  "cb8afa3c06b691802612975818c97426d10f3e7d7f13becff395fa7307b80b3a",
+                 "sizeBytes":  163098679
              },
     "updater":  {
                     "fileName":  "UVC.Updater.exe",
                     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-                    "sha256":  "5960b8d82aca14b936fe7bfdba484a8680eb4a2c5cfdcb4e2e9b0f3902c43333",
+                    "sha256":  "01e105e4321faba50ca4fdb606228bad7406f4de30b4a546d36ebe1f6f7be7ce",
                     "sizeBytes":  161767363
                 },
     "notesUrl":  "https://raw.githubusercontent.com/kolyadkl/uvc-updates/main/release_notes.txt"
