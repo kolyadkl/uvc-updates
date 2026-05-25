@@ -1,26 +1,26 @@
 {
-    "version":  "0.7.6.5",
-    "title":  "Web Queue Snapshot + Updater ETA Polish",
-    "date":  "2026-05-25",
+    "version":  "0.7.6.14",
+    "title":  "Web Queue JS Render Fix",
+    "date":  "2026-05-26",
     "mandatory":  false,
     "fileName":  "UniversalVideoCombiner.exe",
     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-    "sha256":  "cb8afa3c06b691802612975818c97426d10f3e7d7f13becff395fa7307b80b3a",
-    "sizeBytes":  163098679,
+    "sha256":  "f3f6ab52ed6773159df78a0723a1836bd599afb3809cb520f76d554702a148fb",
+    "sizeBytes":  163151929,
     "updaterDownloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-    "updaterSha256":  "01e105e4321faba50ca4fdb606228bad7406f4de30b4a546d36ebe1f6f7be7ce",
-    "updaterSizeBytes":  161767363,
+    "updaterSha256":  "92018e4123e26911e58e1f32629afb97b81c5d2a656a4b3e1dbf91d618982300",
+    "updaterSizeBytes":  161767365,
     "main":  {
                  "fileName":  "UniversalVideoCombiner.exe",
                  "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-                 "sha256":  "cb8afa3c06b691802612975818c97426d10f3e7d7f13becff395fa7307b80b3a",
-                 "sizeBytes":  163098679
+                 "sha256":  "f3f6ab52ed6773159df78a0723a1836bd599afb3809cb520f76d554702a148fb",
+                 "sizeBytes":  163151929
              },
     "updater":  {
                     "fileName":  "UVC.Updater.exe",
                     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-                    "sha256":  "01e105e4321faba50ca4fdb606228bad7406f4de30b4a546d36ebe1f6f7be7ce",
-                    "sizeBytes":  161767363
+                    "sha256":  "92018e4123e26911e58e1f32629afb97b81c5d2a656a4b3e1dbf91d618982300",
+                    "sizeBytes":  161767365
                 },
     "notesUrl":  "https://raw.githubusercontent.com/kolyadkl/uvc-updates/main/release_notes.txt"
 }
