@@ -1,4 +1,4 @@
-0.7.6.5 - Web Queue Snapshot + Updater ETA Polish
+0.7.6.14 - Web Queue JS Render Fix
 
 - Auto update polish and publisher UX improvements.
 - Main EXE and UVC.Updater.exe are published as release assets.
