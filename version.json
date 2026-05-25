@@ -1,25 +1,25 @@
 {
-    "version":  "0.7.6.2",
-    "title":  "Settings ComboBox Theme Fix",
-    "date":  "2026-05-22",
+    "version":  "0.7.6.3",
+    "title":  "Movie Poster Controls Restore",
+    "date":  "2026-05-25",
     "mandatory":  false,
     "fileName":  "UniversalVideoCombiner.exe",
     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-    "sha256":  "1107834d5e796f3fdf09c633f41c88d58cda4ff0d46908aa50a699abe516438e",
-    "sizeBytes":  163086391,
+    "sha256":  "25c63eb681bcae7a7e670411e5aa0d59434d5d412f33f1075c64a9aca3388727",
+    "sizeBytes":  163090487,
     "updaterDownloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-    "updaterSha256":  "55da04adeaf7e2f6ea73c5da62948eb6962e1b004ddd82a181e54e432047b9d8",
+    "updaterSha256":  "5960b8d82aca14b936fe7bfdba484a8680eb4a2c5cfdcb4e2e9b0f3902c43333",
     "updaterSizeBytes":  161767363,
     "main":  {
                  "fileName":  "UniversalVideoCombiner.exe",
                  "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-                 "sha256":  "1107834d5e796f3fdf09c633f41c88d58cda4ff0d46908aa50a699abe516438e",
-                 "sizeBytes":  163086391
+                 "sha256":  "25c63eb681bcae7a7e670411e5aa0d59434d5d412f33f1075c64a9aca3388727",
+                 "sizeBytes":  163090487
              },
     "updater":  {
                     "fileName":  "UVC.Updater.exe",
                     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-                    "sha256":  "55da04adeaf7e2f6ea73c5da62948eb6962e1b004ddd82a181e54e432047b9d8",
+                    "sha256":  "5960b8d82aca14b936fe7bfdba484a8680eb4a2c5cfdcb4e2e9b0f3902c43333",
                     "sizeBytes":  161767363
                 },
     "notesUrl":  "https://raw.githubusercontent.com/kolyadkl/uvc-updates/main/release_notes.txt"
