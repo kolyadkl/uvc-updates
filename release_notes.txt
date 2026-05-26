@@ -1,4 +1,4 @@
-0.7.6.14 - Web Queue JS Render Fix
+0.7.6.25 - Smart Decision Log / Diagnostics
 
 - Auto update polish and publisher UX improvements.
 - Main EXE and UVC.Updater.exe are published as release assets.
