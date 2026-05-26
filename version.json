@@ -1,25 +1,25 @@
 {
-    "version":  "0.7.6.14",
-    "title":  "Web Queue JS Render Fix",
-    "date":  "2026-05-26",
+    "version":  "0.7.6.25",
+    "title":  "Smart Decision Log / Diagnostics",
+    "date":  "2026-05-27",
     "mandatory":  false,
     "fileName":  "UniversalVideoCombiner.exe",
     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-    "sha256":  "f3f6ab52ed6773159df78a0723a1836bd599afb3809cb520f76d554702a148fb",
-    "sizeBytes":  163151929,
+    "sha256":  "9050948b26bfa1e0d6316c11f027a96de0d4816ed795e36a1f1a454032925634",
+    "sizeBytes":  163266617,
     "updaterDownloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-    "updaterSha256":  "92018e4123e26911e58e1f32629afb97b81c5d2a656a4b3e1dbf91d618982300",
+    "updaterSha256":  "41a3712cb1b5b017cf5439f8e15a9cdfeafb98afdc3e5848634464c21dc66ac5",
     "updaterSizeBytes":  161767365,
     "main":  {
                  "fileName":  "UniversalVideoCombiner.exe",
                  "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-                 "sha256":  "f3f6ab52ed6773159df78a0723a1836bd599afb3809cb520f76d554702a148fb",
-                 "sizeBytes":  163151929
+                 "sha256":  "9050948b26bfa1e0d6316c11f027a96de0d4816ed795e36a1f1a454032925634",
+                 "sizeBytes":  163266617
              },
     "updater":  {
                     "fileName":  "UVC.Updater.exe",
                     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-                    "sha256":  "92018e4123e26911e58e1f32629afb97b81c5d2a656a4b3e1dbf91d618982300",
+                    "sha256":  "41a3712cb1b5b017cf5439f8e15a9cdfeafb98afdc3e5848634464c21dc66ac5",
                     "sizeBytes":  161767365
                 },
     "notesUrl":  "https://raw.githubusercontent.com/kolyadkl/uvc-updates/main/release_notes.txt"
