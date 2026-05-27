@@ -1,4 +1,4 @@
-0.7.6.25 - Smart Decision Log / Diagnostics
+0.8.0 - Video Editor UI Shell
 
 - Auto update polish and publisher UX improvements.
 - Main EXE and UVC.Updater.exe are published as release assets.
