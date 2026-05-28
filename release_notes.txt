@@ -1,6 +1,9 @@
-0.8.0 - History Open Result / Open Folder Fix
+0.8.1 - YouTube Recovery / History UX Update
 
-- Auto update polish and publisher UX improvements.
-- Main EXE and UVC.Updater.exe are published as release assets.
-- version.json now includes main and updater metadata with SHA256 and sizeBytes.
-- update.log records the update flow.
+- YouTube Auto Recovery Wizard for ordinary users: detects YouTube login/bot-check/JS challenge errors and guides recovery without manual cookies.txt.
+- Portable Deno support for YouTube JavaScript challenges.
+- Yandex Browser profile support as Chromium cookies source, with safe close helper for real browser processes only.
+- UVC-styled dialogs for new notifications and confirmations.
+- Old Downloads dialog moved to UVC style with banner reset.
+- History result/folder buttons and history export paths unified.
+- Video Editor plan renumbered: editor implementation now starts from 0.8.2.
