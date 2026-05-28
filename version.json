@@ -1,25 +1,25 @@
 {
-    "version":  "0.8.0",
-    "title":  "History Open Result / Open Folder Fix",
+    "version":  "0.8.1",
+    "title":  "YouTube Recovery / History UX Update",
     "date":  "2026-05-28",
     "mandatory":  false,
     "fileName":  "UniversalVideoCombiner.exe",
     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-    "sha256":  "751cbfb1bbd28e76694f9a64993e8c41df90b23d4c89a810da3afb00c6475be5",
+    "sha256":  "8ce46be945621c6877e97dc9535e41302b8bc5043719ec682032675e62fb080a",
     "sizeBytes":  163643447,
     "updaterDownloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-    "updaterSha256":  "3189b75330d37f6deb62a425e973ebcb4b681bb95ba3db554558d27a0e00e743",
+    "updaterSha256":  "50a073c8620cf5185775d192348d96593b1e4c30cad1ea0c9ba806e34b9314eb",
     "updaterSizeBytes":  161767363,
     "main":  {
                  "fileName":  "UniversalVideoCombiner.exe",
                  "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-                 "sha256":  "751cbfb1bbd28e76694f9a64993e8c41df90b23d4c89a810da3afb00c6475be5",
+                 "sha256":  "8ce46be945621c6877e97dc9535e41302b8bc5043719ec682032675e62fb080a",
                  "sizeBytes":  163643447
              },
     "updater":  {
                     "fileName":  "UVC.Updater.exe",
                     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-                    "sha256":  "3189b75330d37f6deb62a425e973ebcb4b681bb95ba3db554558d27a0e00e743",
+                    "sha256":  "50a073c8620cf5185775d192348d96593b1e4c30cad1ea0c9ba806e34b9314eb",
                     "sizeBytes":  161767363
                 },
     "notesUrl":  "https://raw.githubusercontent.com/kolyadkl/uvc-updates/main/release_notes.txt"
