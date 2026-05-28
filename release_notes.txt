@@ -1,4 +1,4 @@
-0.8.0 - Video Editor UI Shell
+0.8.0 - History Open Result / Open Folder Fix
 
 - Auto update polish and publisher UX improvements.
 - Main EXE and UVC.Updater.exe are published as release assets.
