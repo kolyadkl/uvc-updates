@@ -1,4 +1,4 @@
-0.8.2 - UX Stabilization / Publish Update
+0.8.3 - YouTube Auth State / Silent Retry
 
 - YouTube Auto Recovery Wizard for ordinary users: detects YouTube login/bot-check/JS challenge errors and guides recovery without manual cookies.txt.
 - Portable Deno support for YouTube JavaScript challenges.
