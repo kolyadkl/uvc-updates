@@ -1,20 +1,20 @@
 {
     "version":  "0.8.8",
-    "title":  "LibVLC Component Installer / Tools Integration",
+    "title":  "Preview Component Install UX / Lock Retry Fix",
     "date":  "2026-06-02",
     "mandatory":  false,
     "fileName":  "UniversalVideoCombiner.exe",
     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-    "sha256":  "2555efe6dc1e2ab7acdbe020b8437ce15bd83ed66db326468bbcdb9a0613735e",
-    "sizeBytes":  370127962,
+    "sha256":  "d207516d6a4bb5403d7b0f32759e12688b170daa18f9d7feaf95b84622b4dbc9",
+    "sizeBytes":  370136154,
     "updaterDownloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
     "updaterSha256":  "9aba12956121ea6e24f207fe023d9bafc819c0b4a5f7f379386713e9426cc8ee",
     "updaterSizeBytes":  161767363,
     "main":  {
                  "fileName":  "UniversalVideoCombiner.exe",
                  "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-                 "sha256":  "2555efe6dc1e2ab7acdbe020b8437ce15bd83ed66db326468bbcdb9a0613735e",
-                 "sizeBytes":  370127962
+                 "sha256":  "d207516d6a4bb5403d7b0f32759e12688b170daa18f9d7feaf95b84622b4dbc9",
+                 "sizeBytes":  370136154
              },
     "updater":  {
                     "fileName":  "UVC.Updater.exe",
