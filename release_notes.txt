@@ -1,4 +1,4 @@
-0.8.8 - LibVLC Component Installer / Tools Integration
+0.8.8 - Preview Component Install UX / Lock Retry Fix
 
 - YouTube Auto Recovery Wizard for ordinary users: detects YouTube login/bot-check/JS challenge errors and guides recovery without manual cookies.txt.
 - Portable Deno support for YouTube JavaScript challenges.
