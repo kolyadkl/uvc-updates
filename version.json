@@ -1,26 +1,37 @@
 {
-    "version":  "0.8.4",
-    "title":  "Export Filename From Platform Title / Publish Update",
-    "date":  "2026-05-29",
+    "version":  "0.8.8",
+    "title":  "LibVLC Component Installer / Tools Integration",
+    "date":  "2026-06-02",
     "mandatory":  false,
     "fileName":  "UniversalVideoCombiner.exe",
     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-    "sha256":  "bdf9a335deef20cfa3980238e0d72a89f03f2e2eed845f6d5abbb512d6375cc5",
-    "sizeBytes":  163680311,
+    "sha256":  "2555efe6dc1e2ab7acdbe020b8437ce15bd83ed66db326468bbcdb9a0613735e",
+    "sizeBytes":  370127962,
     "updaterDownloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-    "updaterSha256":  "51cedd7a96317844366a27e1bc7554d068c20f6cb138b97c4ee47d899fafc834",
+    "updaterSha256":  "9aba12956121ea6e24f207fe023d9bafc819c0b4a5f7f379386713e9426cc8ee",
     "updaterSizeBytes":  161767363,
     "main":  {
                  "fileName":  "UniversalVideoCombiner.exe",
                  "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-                 "sha256":  "bdf9a335deef20cfa3980238e0d72a89f03f2e2eed845f6d5abbb512d6375cc5",
-                 "sizeBytes":  163680311
+                 "sha256":  "2555efe6dc1e2ab7acdbe020b8437ce15bd83ed66db326468bbcdb9a0613735e",
+                 "sizeBytes":  370127962
              },
     "updater":  {
                     "fileName":  "UVC.Updater.exe",
                     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
-                    "sha256":  "51cedd7a96317844366a27e1bc7554d068c20f6cb138b97c4ee47d899fafc834",
+                    "sha256":  "9aba12956121ea6e24f207fe023d9bafc819c0b4a5f7f379386713e9426cc8ee",
                     "sizeBytes":  161767363
                 },
+    "components":  {
+                       "libvlc":  {
+                                      "version":  "3.0.23",
+                                      "platform":  "win-x64",
+                                      "fileName":  "uvc-libvlc-win-x64.zip",
+                                      "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/uvc-libvlc-win-x64.zip",
+                                      "sha256":  "98b5484ca39996f31d45d05687d649eeee224c9aa39e11a29d5fd293c166d8af",
+                                      "sizeBytes":  46727124,
+                                      "targetPath":  "tools/libvlc/win-x64"
+                                  }
+                   },
     "notesUrl":  "https://raw.githubusercontent.com/kolyadkl/uvc-updates/main/release_notes.txt"
 }
