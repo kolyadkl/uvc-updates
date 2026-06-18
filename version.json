@@ -1,20 +1,20 @@
 {
-    "version":  "0.8.8",
-    "title":  "Preview Component Install UX / Lock Retry Fix",
-    "date":  "2026-06-02",
+    "version":  "0.8.9",
+    "title":  "Video Editor Paused / Core Stabilization",
+    "date":  "2026-06-18",
     "mandatory":  false,
     "fileName":  "UniversalVideoCombiner.exe",
     "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-    "sha256":  "d207516d6a4bb5403d7b0f32759e12688b170daa18f9d7feaf95b84622b4dbc9",
-    "sizeBytes":  370136154,
+    "sha256":  "66f46cf982aa70d031e99a1b750f33cbc63c364937bc7701f3fb889616465ceb",
+    "sizeBytes":  370205786,
     "updaterDownloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UVC.Updater.exe",
     "updaterSha256":  "9aba12956121ea6e24f207fe023d9bafc819c0b4a5f7f379386713e9426cc8ee",
     "updaterSizeBytes":  161767363,
     "main":  {
                  "fileName":  "UniversalVideoCombiner.exe",
                  "downloadUrl":  "https://github.com/kolyadkl/uvc-updates/releases/latest/download/UniversalVideoCombiner.exe",
-                 "sha256":  "d207516d6a4bb5403d7b0f32759e12688b170daa18f9d7feaf95b84622b4dbc9",
-                 "sizeBytes":  370136154
+                 "sha256":  "66f46cf982aa70d031e99a1b750f33cbc63c364937bc7701f3fb889616465ceb",
+                 "sizeBytes":  370205786
              },
     "updater":  {
                     "fileName":  "UVC.Updater.exe",
